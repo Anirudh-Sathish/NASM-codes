@@ -1,6 +1,5 @@
 ;Anirudh Sathish 
-;Q3
-CS20B1125
+;Code to find the factorial of integers less than 30 
 
 section .text
     global _start
