@@ -1,7 +1,5 @@
 ;Anirudh Sathish 
-; CS20B1125 
-;Assignment1 _Q2
-
+;Prints integers less than 100 
 
 section .data 
   newLineMsg db 0xA
