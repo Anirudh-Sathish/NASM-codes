@@ -1,7 +1,5 @@
 ;Anirudh Sathish 
-;CS20B1125
-;Question 4
-
+;Defines an integer array and sums up the value in the array 
 section .bss
     SumLength resd 2
     TotalSum resq 36                 
